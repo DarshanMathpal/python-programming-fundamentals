@@ -39,4 +39,4 @@ Available for educational purposes.
 ## 📧 Contact
 
 - **GitHub**: [@DarshanMathpal](https://github.com/DarshanMathpal)
-- **Repository**: [Python-Capstone-Project](https://github.com/DarshanMathpal/Python-Capstone-Project)
+- **Repository**: [Python_Capstone_Project](https://github.com/DarshanMathpal/Python-Capstone-Project)
